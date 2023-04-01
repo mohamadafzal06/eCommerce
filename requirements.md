@@ -1,0 +1,18 @@
+## Entity
+- User
+    - Login
+      - Add Products
+      - Add to cart
+          - Add address
+          - Edit address
+          - Delete address
+      - List cart
+      - Remove from cart
+      - Checkout
+      - Instant buy
+    - 
+    - Without login
+      - Product view
+      - Search Product
+- Cart
+- Product
